@@ -1,0 +1,11 @@
+:root {
+    --bs-primary: #00C2DE;
+}
+
+.btn-outline-primary {
+    background-color: #00C2DE !important;
+}
+
+/*.btn.btn-outline-primary:hover {
+    color: #1896bd;
+}*/
