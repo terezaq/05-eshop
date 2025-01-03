@@ -10,6 +10,10 @@
     background-color: #00C2DE !important;
 }
 
+.row .card {
+    width: 18rem;
+}
+
 /*.btn.btn-outline-primary:hover {
     color: #1896bd;
 }*/
