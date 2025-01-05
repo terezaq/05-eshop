@@ -18,6 +18,12 @@
     cursor: pointer;
 }
 
+.pfp {
+    height: 50px;
+    width: 75px;
+    margin-top: 10px;
+}
+
 /*.btn.btn-outline-primary:hover {
     color: #1896bd;
 }*/
